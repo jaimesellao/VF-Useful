@@ -2,7 +2,7 @@
 
 #### JSON para el sitio
 
-[Link de JSON](https://github.com/jaimesellao/VF-Useful/blob/master/Googlemaps%20limpio/googlemaps-clean.json)
+[Link de JSON](https://github.com/jaimesellao/VF-Useful/blob/master/Googlemaps%20limpio/googlemaps-limpio.json)
 
 
 
